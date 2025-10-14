@@ -7,7 +7,7 @@ id: "platos-fuertes"
 header_menu: true
 ---
 
-Prueba nuestros delicisios platillos, preparados al momento:
+Prueba nuestros deliciosos platillos, preparados al momento:
 
 - ### Enchiladas Verdes **$120**  
     ![Enchiladas-Verdes](/images/platos-fuertes/enchiladas-verdes.png)
