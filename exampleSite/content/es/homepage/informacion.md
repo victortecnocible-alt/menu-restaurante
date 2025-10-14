@@ -1,11 +1,13 @@
 ---
-title: "Más Información 📍"
+title: "📍Más Información"
 header_menu_title: "Informacion"
 navigation_menu_title: "Informacion"
 weight: 6
 id: "informacion"
 header_menu: true
 ---
+
+Sobre nosotros, gracias estamos para servirles
 
 - ### 🏠
     Avenida de los Sabores #123,  

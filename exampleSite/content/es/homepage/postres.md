@@ -1,11 +1,13 @@
 ---
-title: "Postres 🍰"
+title: "🍰 Postres"
 header_menu_title: "Postres"
 navigation_menu_title: "Postres"
 weight: 4
 id: "postres"
 header_menu: true
 ---
+
+Nada mejor para terminar el dia que con un rico y delicioso postre:
 
 - ### Cheesecake de Frutos Rojos **$75**
   ![Cheescake-FrutosRojos](/images/postres/chescake.png)

@@ -4,6 +4,8 @@ header_menu_title: "Bienvenida"
 navigation_menu_title: "Bienvenida"
 weight: 1
 id: "bienvenida"
+menu:
+    main: false
 ---
 
 Bienvenido a nuestro espacio gastronómico, donde cada platillo es preparado con los ingredientes más frescos y con mucho cariño.  

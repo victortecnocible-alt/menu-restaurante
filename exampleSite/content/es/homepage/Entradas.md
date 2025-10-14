@@ -1,5 +1,5 @@
 ---
-title: "Entradas 🥗"
+title: "🥗 Entradas"
 header_menu_title: "Entradas"
 navigation_menu_title: "Entradas"
 weight: 2

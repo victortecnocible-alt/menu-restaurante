@@ -12,6 +12,9 @@ header_logo: "images/chef-hat.png"
 header_headline: "Restaurante El Buen Sabor"
 header_subheadline: "<b>Tradición</b> y <b>sabor</b> en cada plato"
 
+
+show_in_nav: false
+
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
 # Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
