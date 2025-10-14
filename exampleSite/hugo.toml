@@ -3,13 +3,13 @@ baseURL = "https://example.com"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 
 # The name of this wonderful theme ;-).
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "Restaurante El Buen Sabor"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -38,10 +38,10 @@ enableEmoji = true
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "Restaurante El Buen Sabor"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "El mejor sabor tradicional con un toque moderno."
 
     # Show a menu of languages available
     language_menu = true
@@ -52,7 +52,7 @@ enableEmoji = true
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Jane Doe"
+    copyright = "© 2025 Restaurante El Buen Sabor"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
@@ -70,7 +70,7 @@ enableEmoji = true
 
     [params.footer]
     # Show contact icons for email/phone (if specified) in the footer of the page
-    showContactIcons = false
+    showContactIcons = true
 
     # Show links indicated with footer_menu and footer_menu_title in the footer of the page
     showFooterLinks = false
@@ -79,22 +79,28 @@ enableEmoji = true
         keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
 
     [[params.contacts]]
-        label = "phone"
-        value = "+49 1111 555555"
-        url = "tel:+49 1111 555555"
-        icon = "fa fa-phone"
-
-    [[params.contacts]]
         label = "email"
-        value = "mail@janedoe.com"
-        url = "mailto:mail@janedoe.com"
+        value = "vmartinez7@ucol.mx"
+        url = "restaurante Buen sabor:vmartinez7@ucol.mx"
         icon = "fa fa-envelope"
 
     [[params.contacts]]
-        label = "GitHub"
-        value = "github.com/zjedi/hugo-scroll"
-        url = "https://github.com/zjedi/hugo-scroll"
-        icon = "fa-brands fa-github"
+        label = "facebook"
+        value = "Restaurante Buen Sabor"
+        url = "https://facebook.com"
+        icon = "fa-brands fa-facebook"
+
+    [[params.contacts]]
+        label = "Instagram"
+        value = "Restaurante Buen Sabor"
+        url = "https://instagram.com"
+        icon = "fa-brands fa-instagram"
+
+    [[params.contacts]]
+        label = "TikTok"
+        value = "Restaurante Buen Sabor"
+        url = "https://tiktok.com"
+        icon = "fa-brands fa-tiktok"
 
     # Add additional contacts here!
     # [[params.contacts]]
@@ -105,13 +111,7 @@ enableEmoji = true
 
 # Define additional languages
 [languages]
-  [languages.en]
+  [languages.es]
     weight = 10
-    languageName = "English"
-    contentDir = "content/en"
-
-  [languages.de]
-    title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
-    weight = 20
-    contentDir = "content/de"
-    languageName = "Deutsch"
+    languageName = "Español"
+    contentDir = "content/es"

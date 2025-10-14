@@ -289,3 +289,21 @@ table {
     }
 }
 
+.menu-item img {
+    width: 300px;
+    height: auto; /* mantiene proporción */
+    border-radius: 8px; /* opcional */
+}
+
+.menu-row {
+    display: flex;
+    flex-wrap: wrap; /* permite que se acomoden en varias filas si no caben */
+    gap: 20px;       /* espacio entre columnas */
+}
+
+.menu-item {
+    flex: 1 1 250px; /* ancho mínimo de 250px, se expande según espacio */
+    background: #f9f9f9; /* opcional, para destacar cada platillo */
+    padding: 10px;
+    border-radius: 8px;
+}
