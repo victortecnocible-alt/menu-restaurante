@@ -3,8 +3,8 @@ title: "Más Información 📍"
 header_menu_title: "Informacion"
 navigation_menu_title: "Informacion"
 weight: 6
-header_menu: true
 id: "informacion"
+header_menu: true
 ---
 
 - ### 🏠
