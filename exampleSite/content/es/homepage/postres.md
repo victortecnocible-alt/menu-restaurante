@@ -10,11 +10,11 @@ header_menu: true
 Nada mejor para terminar el dia que con un rico y delicioso postre:
 
 - ### Cheesecake de Frutos Rojos **$75**
-  ![Cheescake-FrutosRojos](/images/postres/chescake.png)
+  ![Cheescake-FrutosRojos](/images/postres/chescake1.png)
   Suave y cremoso cheesecake acompañado de un coulis de frutos rojos frescos, que aporta un contraste dulce y ácido irresistible.
 
 - ### Brownie con Helado **$65**
-  ![Brownie-Helado](/images/postres/brownie-helado.png)
+  ![Brownie-Helado](/images/postres/brownie-helado1.png)
   Brownie caliente, húmedo y chocolatoso, servido con una bola de helado de vainilla que se derrite lentamente sobre cada bocado.
 
 - ### Flan Casero **$50**  

@@ -10,15 +10,15 @@ header_menu: true
 Prueba nuestras deliciosas opciones para comenzar:
 
 - ### Guacamole Tradicional **$60**  
-  ![Guacamole](/images/entradas/guacamole.png)
+  ![Guacamole](/images/entradas/Guacamole1.png)
   Cremoso guacamole hecho al momento con aguacates maduros, jitomate fresco, cebolla y un toque de limón, acompañado de crujientes totopos recién horneados.
 
 - ### Queso Fundido con Chorizo **$85** 
-  ![Choriquezo](/images/entradas/choriqueso1.png)
+  ![Choriquezo](/images/entradas/choriqueso2.png)
   Mezcla irresistible de quesos fundidos con chorizo especiado, servido caliente y acompañado de pan crujiente para untar cada bocado.
 
 - ### Sopa Azteca **$70**  
-  ![Sopa-Azteca](/images/entradas/sopa-azteca1.png)
+  ![Sopa-Azteca](/images/entradas/sopa-azteca2.png)
   Caldo de jitomate con un toque de chile, servido con tiras de tortilla doradas, aguacate fresco, queso rallado y un toque de crema que te reconforta.
 
 - ### Ceviche de Camarón **$110**
