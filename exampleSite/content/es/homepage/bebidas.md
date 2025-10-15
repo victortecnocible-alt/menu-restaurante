@@ -1,5 +1,5 @@
 ---
-title: "🥤Bebidas"
+title: "🥤 Bebidas"
 header_menu_title: "Bebidas"
 navigation_menu_title: "Bebidas"
 weight: 5

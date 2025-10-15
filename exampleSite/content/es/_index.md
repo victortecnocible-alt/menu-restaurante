@@ -12,7 +12,6 @@ header_logo: "images/chef-hat.png"
 header_headline: "Restaurante El Buen Sabor"
 header_subheadline: "<b>Tradición</b> y <b>sabor</b> en cada plato"
 
-
 show_in_nav: false
 
 # Add a 'Go back to top' item to the navigation menu

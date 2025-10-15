@@ -1,7 +1,7 @@
 ---
 title: "🍖 Platos Fuertes"
-header_menu_title: "Platos Fuertes"
-navigation_menu_title: "Platos Fuertes"
+header_menu_title: "Platillos"
+navigation_menu_title: "Platillos"
 weight: 3
 id: "platos-fuertes"
 header_menu: true
